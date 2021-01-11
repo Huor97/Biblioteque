@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+}
+
+label {
+    display: inline-block;
+    text-align: right;
+    font-weight: bold;
+}
+
+input {
+    border-radius: 5px;
+    margin-top: 1%;
+    margin-bottom: 1%;    
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+tr {
+    font-size: 90%;
+}
+
+.saisie {
+	width: 20%;
+}
+
+.bouton {
+    background-color: burlywood;
+    height: 2em;
+    font-weight: 500;
+    font-style: italic;    
+}
